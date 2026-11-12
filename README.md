@@ -199,4 +199,4 @@ This repository serves as the official landing page for NecroCity. The software 
 **Get the most recent version of NecroCity today!**
 
 ---
-**Last updated:** 2026-11-11 23:16:54 UTC
+**Last updated:** 2026-11-12 05:44:44 UTC
